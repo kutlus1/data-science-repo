@@ -2,8 +2,8 @@
 
 ### Credit Risk Scoring Prediction 
 
-Imagine we are data scientists at the bank. We must predict whether or not a customer will fail to return a loan.
-Another words we want to predict the risk of default that is the failure to pay back the money.
+Imagine we are data scientists for a bank, we must predict whether or not a customer will fail to return a loan.
+In other words, we want to predict the risk of default, the failure to pay back the money.
 We have a dataset which contains important client information and default status (1/0) if the client has 
 the risk of default '1', otherwise '0'. We will use this dataset to build a prediction model.
 
@@ -33,8 +33,8 @@ Please click on the link below to view the entire project.
 
 ### Used Car-Price Prediction
 
-We want to predict the price of a car. Let's say we have a website where people can post ad on to sell their used cars.
-We help the sellers to put a reasonable price with an automatic price recommendation based on the cars features.
+We want to predict the price of a car. Let's say we have a website where people can post an ad to sell their used cars.
+We help the sellers price the car reasonablly with an automatic price recommendation based on the cars features.
 
 We have an open dataset which contains cars with important features (model, year, mileage etc.) and manifacturer's suggested retail prices.
 We will use this dataset to build a prediction model.
